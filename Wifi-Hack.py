@@ -17,7 +17,7 @@ def intro():
 ███████║██║  ██║╚██████╔╝██████╔╝██║  ██║     ██║██║ ╚═╝ ██║███████╗╚██████╗   ██║   ██████╔╝███████╗██║  ██║                                                                
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝                                                                
   
-                                                                ~ Tools For Hacking by Shubham Singh Rathour                                                                     
+                                                             ~ Tool For Wifi Hacking by Shubham Singh Rathour                                                                     
 (1)Start monitor mode       
 (2)Stop monitor mode                        
 (3)Scan Networks                            
@@ -34,7 +34,7 @@ def intro():
 (00)Exit
 -----------------------------------------------------------------------
 """)
-    print("\nEnter your choise here : !# ")
+    print("\nEnter your choice here : !# ")
     var = int(input(""))
     if var == 1 :
         print("\nEnter the interface:(Default(wlan0/wlan1))")
@@ -247,7 +247,7 @@ Crack Password Could Take Hours,Days,Weeks,Months to complete
 and the speed of cracking will reduce because you generate a Huge,Huge Passwordlist
 may reach to Hundreds of TeraBites so Be patience!
 """)
-        print("\nEnter your choise here : ?")
+        print("\nEnter your choice here : ?")
         set = str(input(""))
         if set == "1":
             test = str("abcdefghijklmnopqrstuvwxyz")
