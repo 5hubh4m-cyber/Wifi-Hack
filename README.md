@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/5hubh4m-cyber/Wifi-Hack/blob/main/logo.gif?raw=true" width="300" height="300" /></p>
+<p align="center"><img src="https://github.com/5hubh4m-cyber/Wifi-Hack/blob/main/logo.gif?raw=true" width="200" height="200" /></p>
 <br>
 
 [![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/)
