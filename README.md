@@ -51,6 +51,6 @@ This Tool Must Run As ROOT !!
 4) sudo python3 Wifi-Hack.py
 ```
 
-## Disclaimer 
+## Disclaimer :
 
 Wifi-Hack tool is not responsible for misuse and for illegal purposes. Use it only for Pentesting or Educational purpose :smile:
