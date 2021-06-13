@@ -1,10 +1,10 @@
+<p align="center"><img src="https://github.com/5hubh4m-cyber/Wifi-Hack/blob/main/logo.gif?raw=true" width="100" height="100" /></p>
+<br>
+<p align="center">**No Need To Ask Wifi Password, HACK IT..!!**</p>
+
 [![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/)
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
-
-<p align="center"><img src="https://github.com/5hubh4m-cyber/Wifi-Hack/blob/main/logo.gif?raw=true" /></p>
-<br>
-<p align="center">***No Need To Ask Wifi Password, HACK it..!***</p>
 
 ## Features and Contents :
 
