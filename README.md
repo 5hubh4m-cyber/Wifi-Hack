@@ -43,7 +43,7 @@
 
 ## Installation :
 
-This Tool Must Run As ROOT !!!
+This Tool Must Run As ROOT !!
 
 ```bash
 1) sudo apt-get update && apt-get install git
